@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="62" endPosition="0" unitName="batch.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="CommandBlock_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.CommandBlock_BehaviorDescriptor" />
+  <unitInfo fileName="Command_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.Command_BehaviorDescriptor" />
+  <unitInfo fileName="ECHOTO_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.ECHOTO_BehaviorDescriptor" />
+  <unitInfo fileName="ECHO_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.ECHO_BehaviorDescriptor" />
+  <unitInfo fileName="ERROR_LEVEL_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.ERROR_LEVEL_BehaviorDescriptor" />
+  <unitInfo fileName="FunctionCall_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.FunctionCall_BehaviorDescriptor" />
+  <unitInfo fileName="FunctionDeclaration_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="batch.behavior.FunctionDeclaration_BehaviorDescriptor" />
+  <unitInfo fileName="FunctionsBlock_BehaviorDescriptor.java" startLine="8" startPosition="0" endLine="17" endPosition="0" unitName="batch.behavior.FunctionsBlock_BehaviorDescriptor" />
+  <unitInfo fileName="ICommand_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="batch.behavior.ICommand_BehaviorDescriptor" />
+  <unitInfo fileName="IToken_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="batch.behavior.IToken_BehaviorDescriptor" />
+  <unitInfo fileName="IValue_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="8" endPosition="0" unitName="batch.behavior.IValue_BehaviorDescriptor" />
+  <unitInfo fileName="IntLiteral_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.IntLiteral_BehaviorDescriptor" />
+  <unitInfo fileName="LogicalExpression_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.LogicalExpression_BehaviorDescriptor" />
+  <unitInfo fileName="PAUSE_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.PAUSE_BehaviorDescriptor" />
+  <unitInfo fileName="ParamReference_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.ParamReference_BehaviorDescriptor" />
+  <unitInfo fileName="Parameter_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="batch.behavior.Parameter_BehaviorDescriptor" />
+  <unitInfo fileName="Params_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.Params_BehaviorDescriptor" />
+  <unitInfo fileName="SET_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.SET_BehaviorDescriptor" />
+  <unitInfo fileName="Script_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="batch.behavior.Script_BehaviorDescriptor" />
+  <unitInfo fileName="StringLiteral_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.StringLiteral_BehaviorDescriptor" />
+  <unitInfo fileName="String_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.String_BehaviorDescriptor" />
+  <unitInfo fileName="VarReference_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="batch.behavior.VarReference_BehaviorDescriptor" />
+  <unitInfo fileName="Variable_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="batch.behavior.Variable_BehaviorDescriptor" />
+</debugInfo>
+

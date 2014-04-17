@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-1vo8uw3w6u5hht0yqn08tnjgyo8hrbw">
+  <dep model="f:java_stub#6ed54515-acc8-4d1e-a16c-9fd6cfe951ea#jetbrains.mps.smodel.runtime.impl(MPS.Core/jetbrains.mps.smodel.runtime.impl@java_stub)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+  <common hash="-1nskief698h6523bf7dv2ess0lpqpgi">
+    <dep root="3412385420235829042" />
+    <dep root="3412385420238470320" />
+    <dep root="3412385420238548077" />
+    <dep root="3412385420239099646" />
+    <dep root="3412385420239156712" />
+    <dep root="3412385420239156881" />
+    <dep root="3412385420239912042" />
+    <dep root="3412385420240649984" />
+    <dep root="3412385420240667242" />
+    <dep root="5016689149349665483" />
+    <dep root="5016689149350940581" />
+    <dep root="5016689149352780955" />
+    <dep root="5016689149353720219" />
+    <dep root="5016689149354253596" />
+    <dep root="5016689149355386122" />
+    <dep root="5016689149357047618" />
+    <dep root="6855946437584752487" />
+    <dep root="9070633799764746827" />
+    <dep root="9070633799764906141" />
+    <dep root="9070633799764906144" />
+    <dep root="9070633799765036118" />
+    <dep root="9070633799765036184" />
+    <dep root="9070633799766357270" />
+    <dep model="f:java_stub#6ed54515-acc8-4d1e-a16c-9fd6cfe951ea#jetbrains.mps.smodel.runtime.impl(MPS.Core/jetbrains.mps.smodel.runtime.impl@java_stub)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <file name="StructureAspectDescriptor.java" />
+  </common>
+  <source id="6855946437584752487" name="SET" hash="-bdbv66ed4yk7sum1v0vllxfzrefgzjq" />
+  <source id="9070633799764906141" name="Script" hash="zkrlcorlnz620v649ly1tqigvoq06l" />
+  <source id="9070633799764906144" name="IToken" hash="-2jn30j54xmi71d33jvlq2736hdvo8qh" />
+  <source id="9070633799765036118" name="Variable" hash="-b2aoy93k62ith8vqa2x8udhhqclq7lg" />
+  <source id="9070633799765036184" name="IValue" hash="-z7vn2e6pcrh19v9ne6cvj50z7qm00e" />
+  <source id="9070633799766357270" name="VarReference" hash="-7pa7ox3um1kgigxadz1kdmftklii8j2" />
+  <source id="3412385420235829042" name="Command" hash="gullrzfhrpeericnkhqds6z5xup8re" />
+  <source id="9070633799764746827" name="ECHO" hash="-2mk1u9gbfegwsmn3ezvfvq1bp4odp8s" />
+  <source id="3412385420238470320" name="String" hash="-ag67r24cayo8pob3pdbuy5nthvj0ir5" />
+  <source id="3412385420238548077" name="LogicalExpression" hash="48ptanvt81hwqe0ueambw2jwp2ha8vv" />
+  <source id="3412385420239099646" name="FunctionDeclaration" hash="cc5zyhfhskwyyfoia2j5e090uvughjq" />
+  <source id="3412385420239156712" name="ICommand" hash="-bt00slsfcnsvjafryelftzzjukz7jtb" />
+  <source id="3412385420239156881" name="CommandBlock" hash="8bxqyvfmas1zeqpuf8zth5qozewb1e9" />
+  <source id="3412385420239912042" name="Params" hash="-14nay42a8fjj0yik4401u0bczb5lk9w" />
+  <source id="3412385420240649984" name="StringLiteral" hash="-313e3xt5mmac96e5f8g5ueltqnyx375" />
+  <source id="3412385420240667242" name="IntLiteral" hash="-90d60yqg9sfqdefrd200xt44s4pkwou" />
+  <source id="5016689149349665483" name="Parameter" hash="a2h5uaow0vgvl22wsp5fj7u3ol145kt" />
+  <source id="5016689149350940581" name="ParamReference" hash="-38ahsywon8jhm9j504961zz93m15v8c" />
+  <source id="5016689149352780955" name="FunctionsBlock" hash="bommv9jdv80qtimloud791so3nr0yuy" />
+  <source id="5016689149353720219" name="FunctionCall" hash="4ahlzws3e0wbn8f8vz8m7vckc4xyh11" />
+  <source id="5016689149354253596" name="PAUSE" hash="11jpl0pn905zvx3mobcm3efhvm9pm7f" />
+  <source id="5016689149355386122" name="ECHOTO" hash="4kglduglha7db5dk8bygq3oll2fu9cd" />
+  <source id="5016689149357047618" name="ERROR_LEVEL" hash="-5lup1evx9fn1nnji9q51ev4vo376alm" />
+</dependencies>
+

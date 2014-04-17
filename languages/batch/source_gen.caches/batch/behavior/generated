@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="54bkwrwf9jafh69ok3rbgaehs5pnl1g">
+  <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" />
+  <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+  <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+  <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+  <dep model="r:f08bcb97-51d1-4a98-9f8d-7cf699852511(batch.structure)" hash="-1vo8uw3w6u5hht0yqn08tnjgyo8hrbw" />
+  <common hash="54bkwrwf9jafh69ok3rbgaehs5pnl1g" dependsOnNodes="true">
+    <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" />
+    <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
+    <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
+    <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
+    <dep model="r:f08bcb97-51d1-4a98-9f8d-7cf699852511(batch.structure)" />
+    <file name="BehaviorAspectDescriptor.java" />
+    <file name="CommandBlock_BehaviorDescriptor.java" />
+    <file name="Command_BehaviorDescriptor.java" />
+    <file name="ECHOTO_BehaviorDescriptor.java" />
+    <file name="ECHO_BehaviorDescriptor.java" />
+    <file name="ERROR_LEVEL_BehaviorDescriptor.java" />
+    <file name="FunctionCall_BehaviorDescriptor.java" />
+    <file name="FunctionDeclaration_BehaviorDescriptor.java" />
+    <file name="FunctionsBlock_BehaviorDescriptor.java" />
+    <file name="ICommand_BehaviorDescriptor.java" />
+    <file name="IToken_BehaviorDescriptor.java" />
+    <file name="IValue_BehaviorDescriptor.java" />
+    <file name="IntLiteral_BehaviorDescriptor.java" />
+    <file name="LogicalExpression_BehaviorDescriptor.java" />
+    <file name="PAUSE_BehaviorDescriptor.java" />
+    <file name="ParamReference_BehaviorDescriptor.java" />
+    <file name="Parameter_BehaviorDescriptor.java" />
+    <file name="Params_BehaviorDescriptor.java" />
+    <file name="SET_BehaviorDescriptor.java" />
+    <file name="Script_BehaviorDescriptor.java" />
+    <file name="StringLiteral_BehaviorDescriptor.java" />
+    <file name="String_BehaviorDescriptor.java" />
+    <file name="VarReference_BehaviorDescriptor.java" />
+    <file name="Variable_BehaviorDescriptor.java" />
+  </common>
+</dependencies>
+

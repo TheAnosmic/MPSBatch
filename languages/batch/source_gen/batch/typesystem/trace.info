@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="TypesystemDescriptor.java" startLine="8" startPosition="0" endLine="16" endPosition="0" unitName="batch.typesystem.TypesystemDescriptor" />
+  <root nodeRef="r:66d19eba-f138-4dbe-a69b-275c2aae91b2(batch.typesystem)/3412385420240650214" />
+  <root nodeRef="r:66d19eba-f138-4dbe-a69b-275c2aae91b2(batch.typesystem)/5016689149359397101">
+    <nodeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="19" startPosition="46" endLine="20" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="24" startPosition="5" endLine="25" endPosition="130" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="25" startPosition="130" endLine="26" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="30" startPosition="30" endLine="31" endPosition="17" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="13" startPosition="0" endLine="15" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="typeof_IValue_InferenceRule#()V" />
+    <nodeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="16" startPosition="0" endLine="18" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="applyRule#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+    <nodeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="19" startPosition="0" endLine="22" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="getApplicableConceptFQName#()Ljava/lang/String;" />
+    <nodeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="30" startPosition="0" endLine="33" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="overrides#()Z" />
+    <nodeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="23" startPosition="68" endLine="27" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="23" startPosition="0" endLine="29" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+    <scopeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="13" startPosition="40" endLine="13" endPosition="40" />
+    <scopeInfo nodeId="5016689149359397102" fileName="typeof_IValue_InferenceRule.java" startLine="16" startPosition="119" endLine="16" endPosition="119" />
+    <scopeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="19" startPosition="46" endLine="20" endPosition="36" />
+    <scopeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="30" startPosition="30" endLine="31" endPosition="17" />
+    <scopeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="13" startPosition="0" endLine="15" endPosition="0" />
+    <scopeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="16" startPosition="0" endLine="18" endPosition="0">
+      <varInfo nodeId="5016689149359397101" varName="iValue" />
+      <varInfo nodeId="5016689149359397101" varName="status" />
+      <varInfo nodeId="5016689149359397101" varName="typeCheckingContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="24" startPosition="5" endLine="26" endPosition="45">
+      <varInfo nodeId="5016689149359397101" varName="b" />
+    </scopeInfo>
+    <scopeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="19" startPosition="0" endLine="22" endPosition="0" />
+    <scopeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="30" startPosition="0" endLine="33" endPosition="0" />
+    <scopeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="23" startPosition="68" endLine="27" endPosition="5" />
+    <scopeInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="23" startPosition="0" endLine="29" endPosition="0">
+      <varInfo nodeId="5016689149359397101" varName="argument" />
+    </scopeInfo>
+    <unitInfo nodeId="5016689149359397101" fileName="typeof_IValue_InferenceRule.java" startLine="12" startPosition="0" endLine="34" endPosition="0" unitName="batch.typesystem.typeof_IValue_InferenceRule" />
+  </root>
+</debugInfo>
+
